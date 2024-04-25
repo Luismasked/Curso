@@ -1,10 +1,2 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <title>Mi pagina de prueba</title>
-  </head>
-  <body>
-    <img src="images/firefox-icon.png" alt="Mi imagen de prueba" />
-  </body>
-</html>
+for i in [1, 2, 3, 4]:
+    print(i, end=", ") # prints: 1, 2, 3, 4,
